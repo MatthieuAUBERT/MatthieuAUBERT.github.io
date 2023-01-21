@@ -1,7 +1,7 @@
 # Quick Resume About Me :
 
 First, thanks for taking time to watch this. Feel free to navigate on my portfolio. 
->If you want, at any time, to contact me, please be sure to not miss the "Contacts" part at the bottom. I'll be pleased for receiving any return !
+>If you want, at any time, to contact me, please be sure to not miss the ["Contacts"](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io#contacts) part at the bottom. I'll be pleased for receiving any return !
 
 ## How am I ?
 
