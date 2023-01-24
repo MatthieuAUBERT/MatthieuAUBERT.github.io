@@ -35,6 +35,7 @@ If you want to know me better, it's good to know what I like !
 &nbsp;
 
 ---
+
 ## Films and Series
 
 - Animation (_Arcane_, Pixar and Disney's and animes like _Death Note_ and _Hunter X Hunter_) and Ghibli's animation ( _Spirited Away_ and _Princess Mononoke_ )
@@ -42,11 +43,15 @@ If you want to know me better, it's good to know what I like !
 - Thriller series (_Squid Game_, _Alice In Borderlands_) and films ( Nolan's filmography or _Now You See Me_ for example )
 - Fantastic and heroic films and series like the Marvel Cinematic Universe.
 
+---
+
 ## Books
 
 - Mangas, from _Death Note_ to _Attack on Titan_.
 - Polar and Thriller (Agatha Christie's books for example)
 - Fantastic and Dystopic like _Hunger Games_, _The Maze Runner_, _The Mortality Doctrine_ series
+
+---
 
 ## Others
 
