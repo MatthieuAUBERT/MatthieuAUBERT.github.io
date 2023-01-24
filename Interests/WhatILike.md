@@ -15,7 +15,7 @@ If you want to know me better, it's good to know what I like !
 &nbsp;
 
 ### Persona 5 Royal, the game that surprises me as much as Maruki's betrayal.
-![P5R](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Interests/Images/P5R.png)
+![P5R](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Interests/Images/P5Royal.png)
 
 &nbsp;
 
@@ -25,7 +25,7 @@ If you want to know me better, it's good to know what I like !
 &nbsp;
 
 ### Pokemon Serie, because training those Fairy types to give headaches to strategic strong Over Used Dragon-type Spammers is the best feeling.
-![Pokemon](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Interests/Images/PK.jpg)
+![Pokemon](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Interests/Images/PK.png)
 
 &nbsp;
 
