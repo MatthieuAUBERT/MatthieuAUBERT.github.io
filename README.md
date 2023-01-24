@@ -21,7 +21,7 @@ I have a **good overview on all the game developping pipeline**. I like to **soc
 - My more precise skills
 - The projects I worked on
 - My Personal Works
-- My Interests (if you want to know me better)
+- [My Interests (if you want to know me better)](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Interests/WhatILike.md)
 
 ## Contacts
 
