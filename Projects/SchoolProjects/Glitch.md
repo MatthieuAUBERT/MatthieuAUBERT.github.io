@@ -1,8 +1,11 @@
 # Glitch
 
 > How to Fix 404 - Student's Studio for the 5th Semester of ESMA's Game Design formation, composed of 6 members.
+> 
 > As a Tech Artist / VFX Artist
+> 
 > September 2022 to June 2023
+> 
 > Unreal 4.27
 
 ## Quick Pitch
