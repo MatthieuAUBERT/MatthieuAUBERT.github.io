@@ -8,7 +8,7 @@
 
 My last-year project of the ESMA's Game Design formation where I could freely develop my passion and my skills for FX. During this project, I mainly was a Tech/VFX Artist but did other few things like Animation and UI. I mainly use PopCornFX to work but also Niagara, Unreal Materials and FluidNinja (this one gave me the opportunity to discover VectorFields).
 
-- What I Did ?
+- [What I Did ?](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch.md)
 - Trailer (Available Soon)
 - Download the game (Available Soon)
 
@@ -18,7 +18,7 @@ My last-year project of the ESMA's Game Design formation where I could freely de
 
 As a Narrative Designer for this project, I really enjoyed developing a whole story/universe which gaves me another perspective of the game development and will probably help me a lot to create new effects giving great sensations. Even if tis project is really not finished visually, my group and I did a great job to produce a thrilling story.
 
-- What I Did ?
+- [What I Did ?](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/TellMeWhatYouSaw.md)
 
 ## À Pas de Souris
 
@@ -34,6 +34,5 @@ This game was produced to answer our first collaboration between the school and 
 
 With this first year project, it was our first real challenge. This project was individual, we had to make everything by our own. The code, the game design, the narrative design and the art were all created by myself, which was pretty fun and satisfying when the final result came. Even with some bugs and Art Direction inconsistencies, this game is my first one developed by my own.
 
-- What I Did ?
+- [What I Did ?](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Dreamnia.md)
 - [A full playthrough](https://youtu.be/tyygOTL3HG0)
-- Play the game
