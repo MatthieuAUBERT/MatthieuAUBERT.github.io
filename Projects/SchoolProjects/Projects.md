@@ -1,6 +1,6 @@
 # The Projects I worked on
 
-> Here's a quick preview on everything I did during my formations. To find what I did by my own, click [here]().
+> Here's a quick preview on everything I did during my formation. To find what I did by my own, click [here]().
 
 ## Glitch
 
