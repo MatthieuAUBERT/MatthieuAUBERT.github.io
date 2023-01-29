@@ -8,7 +8,7 @@
 
 My last-year project of the ESMA's Game Design formation where I could freely develop my passion and my skills for FX. During this project, I mainly was a Tech/VFX Artist but did other few things like Animation and UI. I mainly use PopCornFX to work but also Niagara, Unreal Materials and FluidNinja (this one gave me the opportunity to discover VectorFields).
 
-- [What I Did ?](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch.md)
+- [What I Did ?](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Glitch.md)
 - Trailer (Available Soon)
 - Download the game (Available Soon)
 

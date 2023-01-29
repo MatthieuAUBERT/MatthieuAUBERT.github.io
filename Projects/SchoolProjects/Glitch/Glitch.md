@@ -30,7 +30,20 @@ What was "simple" was having the validation of my art director. We have a heavil
 
 Here's some effects I developed :
 
+***Creating a Transition Between Two Connected Worlds***
+> Using a Unreal Material I had to create an effect that brings a new visual to the world and can be reverted.
 
+![TransitionShaderGIF](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Images/TransitionBetweenWorlds.gif)
+
+![TransitionShader](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Images/NodalUnreal.png)
+
+***Effects made with PopCornFX***
+
+![ElectricArcs](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Images/TowerElectricShot.gif)
+
+![GlitchDash](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Images/GlitchDash.gif)
+
+![Nexus](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Images/ChainedNexus.gif)
 
 
 ## What I Learned
