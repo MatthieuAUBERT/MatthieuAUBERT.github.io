@@ -26,7 +26,9 @@ What's important in making FX for this kind of game is to know the limit beyond 
 
 Understanding all of that AND corresponding to the art direction was the challenge. I worked on creating particles effects that corresponds to the Towers, the Traps, the Environment of the world, the player's action and his avatar, enemies responses...
 
-What was simple was having the validation of my art director. We have a heavily stylized game that I understand pretty fast. 
+What was "simple" was having the validation of my art director. We have a heavily stylized game that I understand pretty fast. 
+
+Here's some effects I developed :
 
 
 
