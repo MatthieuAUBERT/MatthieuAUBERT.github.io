@@ -32,6 +32,7 @@ There was a little time to start adding some effects and learn Niagara, what I d
 
 Even if we're not happy with the visual results, that project probably learned me the most with [Glitch](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Glitch.md).
 I learned to accept failures and taking care of not reproducing mistakes. It seems pretty easy/usual said like that but that only comes when you faces that kind of issues that you understand a lot.
-There was also great points such as the code (our devs created a good AI), the story (and narrative ideas) and the Game Design (with good mechanics that were between a horrific HideNSeek game and Narrative Adventure)
-That was also the time I started to develop my skills that leads me where I am today, a future Tech/VFX artist.
+There was also great points such as the code (our devs created a good AI), the story (and narrative ideas) and the Game Design (with good mechanics that were between a horrific HideNSeek game and Narrative Adventure).
+
+That was also the time I started to develop my skills that leads me where I am today, a future Tech/VFX artist. Finishing the year discovering that gaves the holidays to work on my skills as a Tech Artist.
 I really liked being a Narrative Designer because I enjoy creating stories and developing universes and those skills will help me to add layers on my effects to bring emotions and sensations to players.
