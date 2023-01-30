@@ -8,6 +8,8 @@
 > 
 > Unreal Engine 4.27
 
+![BG](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Images/BG_Glitch_2.png)
+
 ## Quick Pitch
 
 Glitch is a Tower Defense and Stealth game on PC where the player embodies a character to the 3rd person view. That character evolves within a medieval world corrupted by a strange void.
@@ -58,6 +60,8 @@ A quite simple effect that links two positions, a start and an end, and sends so
 ![Nexus](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Images/ChainedNexus.gif)
 
 Here I add to make an effect that tells that an certain object is imprisoned by a virtual entity. This effect uses a simple texture put with many duplicates in a circle. And then I added an orbital movement to make the whole thing rotate around an axis.
+
+> You can find other effects in the game, or unused / deleted effects in this section ["FXs_Glitch"]().
 
 
 ## What I Learned
