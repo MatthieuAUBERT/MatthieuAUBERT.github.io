@@ -8,6 +8,8 @@
 > 
 > Unreal Engine 4.27
 
+![BG](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Images/BG_Glitch_2.png)
+
 ## Quick Pitch
 
 Glitch is a Tower Defense and Stealth game on PC where the player embodies a character to the 3rd person view. That character evolves within a medieval world corrupted by a strange void.
