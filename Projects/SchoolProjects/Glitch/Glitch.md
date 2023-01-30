@@ -61,6 +61,8 @@ A quite simple effect that links two positions, a start and an end, and sends so
 
 Here I add to make an effect that tells that an certain object is imprisoned by a virtual entity. This effect uses a simple texture put with many duplicates in a circle. And then I added an orbital movement to make the whole thing rotate around an axis.
 
+> You can find other effects in the game, or unused / deleted effects in this section ["FXs_Glitch"]().
+
 
 ## What I Learned
 
