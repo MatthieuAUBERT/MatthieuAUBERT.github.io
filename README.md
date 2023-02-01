@@ -20,7 +20,7 @@ I have a **good overview on all the game developping pipeline**. I like to **soc
 - [My Resume / CV](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Docs/CV_AUBERTM.pdf)
 - [My more precise skills](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Skills/MySkills.md)
 - [The projects I worked on](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Projects.md)
-- My Personal Works
+- [My Personal Works](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/FXPortfolio.md)
 - [My Interests (if you want to know me better)](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Interests/WhatILike.md)
 
 ## Contacts
