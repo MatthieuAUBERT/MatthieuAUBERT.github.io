@@ -3,7 +3,7 @@
 First, thanks for taking time to watch this. Feel free to navigate on my portfolio. 
 >If you want, at any time, to contact me, please be sure to not miss the ["Contacts"](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io#contacts) part at the bottom. I'll be pleased for receiving any return !
 
-## How am I ?
+## Who am I ?
 
 I'm **AUBERT Matthieu**, a Game Design student at [ESMA Rennes](https://www.esma-artistique.com/campus/rennes/) in France. During my 2nd year, I started developping a passion for VFX. Since that moment, I used (and still using) to learn everything I can take to reach a level I can be proud of. I'm currently working to become a Tech Artist or a FX Artist. 
 
