@@ -25,6 +25,6 @@ Today, I know that I can get pretty quick to use a new engine, thanks to Unity a
 
 To make beautifull effects, I had to know a lot of softwares used during the development process. My school formation gave me access to a lot of tools I could use for everything.
 
-First, they teach us some soft from the Adobe Creative Suite : Photoshop and Illustrator. I admit that I'm not good with Illustrator but I clearly love Photoshop and not only knows it for making textures, I used it a lot when I want to draw or illustrate some ideas (I have a drawing tablet to help me, mouse is clearly not the best). I'm pretty close with stylized kind of arts with strong japanese animation / video games inspirations.
+First, they teach us some soft from the Adobe Creative Suite : Photoshop and Illustrator. I admit that I'm not good with Illustrator but I clearly love Photoshop and not only knows it for making textures, I used it a lot when I want to draw or illustrate some ideas (I have a drawing tablet to help me, mouse is clearly not the best). I'm pretty close with stylized kind of arts mostly with strong japanese animation / video games inspirations.
 
 ## A good knowledge and interests of others Game Development fields
