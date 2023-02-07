@@ -8,9 +8,15 @@
 
 ![IceAttack](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/IceAttack.gif)
 
+02/08/2022 : This effect has been created from references. It is composed of three VFX and two Shaders. The use of Blender has created relatively basic ice peaks. After modeling these peaks, it was enough to create the shaders and give a timing to all the "events" for the effect to have the desired impact. Thanks to the workflow used for this effect, it is extremely simple to make it more unpredictable, to change 3D models or even textures.
+
 ![Orb](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/MagicalOrb.gif)
 
+27/07/2022 : For this effect, I used as a visual reference Ahri's orb in League Of Legends without wanting to recreate it exactly. The goal was to make a very beautiful visual effect without being optimized (the model uses more than 50,000 particles, which is not suitable for Video Games). So there are 3 layers of VFX that all use different workflows, that is: the first layer uses simple particles that are constrained in a sphere, the second is a simple particle that centralizes the effect and finally the "trails" are constrained at the surface of another sphere and make the orb irregular with a turbulence effect.
+
 ![Portal](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/Portal.gif)
+
+17/08/2022 : The portal effect seemed to me to be a classic among VFX Artists. This effect requires working on colors, timing and knowledge of work tools. To do this, I first had to create a circle texture on Photoshop. The shape of the portal may vary, but for the first time I decided to keep the circular shape. Then, each part of the final VFX was assembled according to a certain timing that had to be tested. The colors then came to intensify the atmosphere. The texture in the center was created by using a lot of knowledge from the Shader Graph, so I have a procedural texture.
 
 ![BeamAttack](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/SuperBeamAttack.gif)
 
