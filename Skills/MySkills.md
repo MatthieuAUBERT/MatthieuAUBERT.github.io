@@ -27,4 +27,14 @@ To make beautifull effects, I had to know a lot of softwares used during the dev
 
 First, they teach us some soft from the Adobe Creative Suite : Photoshop and Illustrator. I admit that I'm not good with Illustrator but I clearly love Photoshop and not only knows it for making textures, I used it a lot when I want to draw or illustrate some ideas (I have a drawing tablet to help me, mouse is clearly not the best). I'm pretty close with stylized kind of arts mostly with strong japanese animation / video games inspirations.
 
+I also use some external tools dedicated to VFX that I learned by my own. I greatly know PopCornFX and have some basis on Houdini. I've done some research on Nuke but didn't get the chance to have a licence. I really love those softwares and want to master them as soon as possible. 
+
+For 3D modeling, my formation taught me 3DS Max with which I'm comfortable doing simple/intermediate models. I'm more confident with Blender. I prefer the interface, shorcuts and tools like Nodes that we only find in Blender.
+
 ## A good knowledge and interests of others Game Development fields
+
+Thanks to my Game Design formation I have a great overview on every fields composing a video game development. I'm particularly interested in Design jobs and can show some proof in Technical ones.
+
+During my Second Year at ESMA, when I was searching what I will do in the future, I became ,for a project, a Narrative Designer. I love creating universes and characters and help modeling the player's experience and sensations. That was really interesting and I became really close to Narration but didn't want to go further. I also love particpating in the Level Design and Game Design processus. I like keeping contact with every of those fields because it improves what I do and fulfil my great interest for video games.
+
+I also have some knowledges in coding. I've been using Javascript and Python since high school and learned C# and HLSL language by using Unity.
