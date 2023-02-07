@@ -31,7 +31,15 @@ I also use some external tools dedicated to VFX that I learned by my own. I grea
 
 For 3D modeling, my formation taught me 3DS Max with which I'm comfortable doing simple/intermediate models. I'm more confident with Blender. I prefer the interface, shorcuts and tools like Nodes that we only find in Blender.
 
-## A good knowledge and interests of others Game Development fields
+> Now that you've seen what I can do and what I use during my creation process, what can I bring for you.
+
+### Creating stylized arts...
+
+You can see in my portfolio that there's a LOT of stylized art. As told before, I really like this kind of FX art. I trained a lot to understand and produces effects with this style. You can also see in my interests that I have lots of game references.
+
+I'm aware that every studio don't make stylized game. So what's the point in collaborating with me if you do realistic games. I can bring a new vision on your effects, and I'm not affraid of doing realistic effects since I've done a few. There's a lot more I need to learn and my style is not well defined so I'll be happy to do this with you !
+
+### A good knowledge and interests of others Game Development fields
 
 Thanks to my Game Design formation I have a great overview on every fields composing a video game development. I'm particularly interested in Design jobs and can show some proof in Technical ones.
 
