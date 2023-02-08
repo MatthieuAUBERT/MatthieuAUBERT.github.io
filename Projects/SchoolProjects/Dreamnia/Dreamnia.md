@@ -20,7 +20,9 @@ For this game, I did everything except the sound (which was made by a friend of 
 
 That was my first game done by my own which was really fun and instructive. From art to code and game design, I create everything and did a lot of research to make the game as best as possible.
 
-Here's some screenshots of the game :
+Here's a full playthrough to see what I did :
+
+[Youtube Link](https://youtu.be/tyygOTL3HG0)
 
 ## What I Learned
 
