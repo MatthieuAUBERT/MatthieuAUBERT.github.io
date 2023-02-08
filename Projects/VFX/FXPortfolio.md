@@ -6,19 +6,19 @@
 
 ### Basis (or first effects that needed inspirations / researches)
 
-![IceAttack](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/IceAttack.gif)
+![IceAttack](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/IceSpell.gif)
 
 02/08/2022 : This effect has been created from references. It is composed of three VFX and two Shaders. The use of Blender has created relatively basic ice peaks. After modeling these peaks, it was enough to create the shaders and give a timing to all the "events" for the effect to have the desired impact. Thanks to the workflow used for this effect, it is extremely simple to make it more unpredictable, to change 3D models or even textures.
 
-![Orb](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/MagicalOrb.gif)
+![Orb](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/Orb.gif)
 
 27/07/2022 : For this effect, I used as a visual reference Ahri's orb in League Of Legends without wanting to recreate it exactly. The goal was to make a very beautiful visual effect without being optimized (the model uses more than 50,000 particles, which is not suitable for Video Games). So there are 3 layers of VFX that all use different workflows, that is: the first layer uses simple particles that are constrained in a sphere, the second is a simple particle that centralizes the effect and finally the "trails" are constrained at the surface of another sphere and make the orb irregular with a turbulence effect.
 
-![Portal](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/Portal.gif)
+![Portal](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/TPortal.gif)
 
 17/08/2022 : The portal effect seemed to me to be a classic among VFX Artists. This effect requires working on colors, timing and knowledge of work tools. To do this, I first had to create a circle texture on Photoshop. The shape of the portal may vary, but for the first time I decided to keep the circular shape. Then, each part of the final VFX was assembled according to a certain timing that had to be tested. The colors then came to intensify the atmosphere. The texture in the center was created by using a lot of knowledge from the Shader Graph, so I have a procedural texture.
 
-![BeamAttack](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/SuperBeamAttack.gif)
+![BeamAttack](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Basis/BeamAttack.gif)
 
 17/08/2022 : Another very popular effect that requires a lot more skills here especially in 2D: the Beam Attack (or Kamé Hamé Ha). To start the effect, you have to create a 2D Seamless Texture, that is, it can repeat to infinity without being noticed. It took many tests on Photoshop before having a result and then being able to use it. Then this texture is modified with the Shader Graph and then used in three different ways on the VFX Graph, to create three layers for the effect and give an impression of depth.
 
