@@ -32,23 +32,23 @@
 
 ### Advanced (Done by my own with acquired knowledges, sometimes inspirations)
 
-![Waterfall](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Advanced/Waterfall.gif)
+![Waterfall](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Advanced/WaterfallShader.gif)
 
 03/08/2022 : Many tutorials already offer to create their own Shader for liquid surfaces especially for water. So I decided to create mine with the Cell-Shading style as a reference (especially the Legend Of Zelda: Wind Waker). Using the same working techniques, I managed by testing different values and parameters to approach the desired result. The important thing here is the use of a Voronoï texture that allows this cellular aspect.
 
-![MagicCircles](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Advanced/MagicalCircles.gif)
+![MagicCircles](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Advanced/MagicalInvocation.gif)
 
 28/08/2022 : An effect that was very nice to create: the invocation circle. First, it was necessary to create the entire 2D textures, which proved to be much more complicated than expected (graphic bugs persist in the Unity version) but allowed me to use Photoshop in a deeper way. Then I had to create some animations and integrate them into the VFX Graph, which turned out to be simpler than expected. To finish everything rest on the timing of the appearance and disappearance of the different textures.
 
-![Pokeball](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Advanced/PokeballGIF.gif)
+![Pokeball](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Advanced/Pokeball.gif)
 
 22/08/2022 : Taken from the Pokemon game, this effect is divided into 3 major parts that I had to understand and work on. First the modeling of the Pokeball and its animation. The animation was entirely made on Unity to make the most of the engine, while the model was made on Blender, as well as the materials to have a quick rendering. Then creating textures was also a challenge since, for example, dust clouds are mini-flipbooks. Finally the creation of the VFX were relatively simple, only the timings were tough to adapt.
 
-![Blood](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Advanced/Blood.gif)
+![Blood](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Advanced/BloodProcedural.gif)
 
 10/09/2022 : The idea of this effect was to have a fast, simple and adaptable blood emission to any game. Here, we only use a default particle to simulate the blood but with a work on the texture, the blood can very quickly have a more realistic or cartoon style. Then, the working method of this VFX makes it possible to change very quickly where the blood comes from, to where, its emission frequency, and many other parameters, which makes this effect a real procedural effect when it used only the VFX Graph ( and the Shader Graph to improve blood rendering).
 
-![Fireflies](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Advanced/Fireflies.gif)
+![Fireflies](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Advanced/FirefliesFX.gif)
 
 16/09/2022 : Fireflies are always a very good visual effect to add in a nighttime environment. These can have a behavior defined according to the player’s actions and add a more natural atmosphere to the game. They were made using Unity’s base particle system. Their random trajectory is obtained thanks to the added Noise after having obtained a pleasant result on the first iterations. Then their behavior is defined through a small script that understands whether the player is close or not.
 
