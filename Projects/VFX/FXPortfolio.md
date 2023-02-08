@@ -58,10 +58,10 @@
 
 ### Scenes (Works that are not only effects. Great artistic exercises)
 
-![Sakura](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Scenes/SakuraScene.gif)
+![Sakura](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Scenes/Sakura.gif)
 
-![Sanctuary](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Scenes/SnowSanctuary.gif)
+![Sanctuary](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Scenes/SnowySanctuary.gif)
 
-![Witch](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Scenes/WitchScene.gif)
+![Witch](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Scenes/WitchHouse.gif)
 
 ![Esigelec](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Scenes/EsigelecOrder%231.png)
