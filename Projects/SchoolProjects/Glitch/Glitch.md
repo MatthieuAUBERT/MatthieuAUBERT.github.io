@@ -72,4 +72,5 @@ This project sure gave me the full comprehension of creating an effect from scra
 ---
 
 [Retour à la page précédente](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Projects.md)
+
 [Retour à la page d'accueil](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io)
