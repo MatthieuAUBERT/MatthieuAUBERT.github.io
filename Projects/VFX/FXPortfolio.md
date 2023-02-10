@@ -60,8 +60,16 @@
 
 ![Sakura](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Scenes/Sakura.gif)
 
+30/06/2022 : This is one of my first creations, a natural landscape that represents a campfire in the shade of a blossoming cherry tree. To create this scene, I started with visual references and built all the 3D models. Then, as a VFX Artist, I brought this scene to life by dressing it with movable effects (falling petals, cherry leaves and grass moving with the wind...) and Post-Production lights and effects.
+
 ![Sanctuary](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Scenes/SnowySanctuary.gif)
+
+10/08/2022 : This scene is my second one. It took a lot longer than the first one because there is almost no reference. It uses 3D models that I made and just like the first one is made alive by certain processes: the northern lights, falling snow, shooting stars, lights but also a Shader that manages the intensity of snow on the ground (although the effect is minimal). The VFX have also been designed to be optimized in a video game environment.
 
 ![Witch](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Scenes/WitchHouse.gif)
 
+16/08/2022 : This scene took a little more modeling time but it was largely inspired by a reference. On the other hand, all the visual effects were created by me to make the scene much more lively and engaging. So there is a Shader for the contents of the pot and a Shader for the fire and the torch that were both created via the Shader Graph from "Simple Noise Texture". The fluorescent eyes of the skull are a simple fluorescent green light. For the bubbles, the effect is complicated since it was necessary to create a Shader and find the timings and the quantity that turned out to be the best.
+
 ![Esigelec](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/VFX/Scenes/EsigelecOrder%231.png)
+
+20/09/2022 : The first order I had to make was a request for an Instagram banner for an Esigelec computer club (engineering school). Even if it was requested by a friend, the criteria were rigorous. I had to link several requested icons and symbols. Instead of making an illustration, I chose a 3D rendering (above) which I have then modify on Photoshop to finalize. The model of the character is not mine but taught me the animation as well as the rigging, basic-intermediate level.
