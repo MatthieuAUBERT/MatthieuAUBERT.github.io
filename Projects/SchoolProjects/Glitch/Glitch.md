@@ -67,3 +67,9 @@ Here I add to make an effect that tells that an certain object is imprisoned by 
 ## What I Learned
 
 This project sure gave me the full comprehension of creating an effect from scratch. I learned some skills that will be usefull in the future such as tools versatility, thinking about others jobs by implementing variables to quickly change an effect and knowledges about Vector Fields (used a little) and PopCornFX's soft (used at 90% for effects) . That also gaves me the tools to understand how hard video game productions can be I'm happy that I worked in a healthy and efficient group, with people I didn't knew that much.
+
+
+---
+
+[Retour à la page précédente](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Projects.md)
+[Retour à la page d'accueil](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io)
