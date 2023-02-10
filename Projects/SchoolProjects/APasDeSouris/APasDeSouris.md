@@ -31,3 +31,9 @@ We really wanted to implement a system where the player could move from one room
 ## What I Learned
 
 That project really improved my programming skills especially on Unity / C# but it learned me as well that I didn't want to became a Programmer. Fortunately, doing the Tech Artist job really interested me and I love working with a lot of tools. That was also our first teamwork and that learned us to manage not only ourselves but also the others.
+
+---
+
+[Retour à la page précédente](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Projects.md)
+
+[Retour à la page d'accueil](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io)
