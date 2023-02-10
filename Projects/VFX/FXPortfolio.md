@@ -1,6 +1,6 @@
 # My Portfolio
 
-> The effects contained here are from my personal works. Under every effect, you can read a little explanation on how it was realized. There's also other effects that are waiting to be seen in the game "Glitch" I've produced for my last year project. You can find it in the [School Project](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Projects.md) Page. I really invite to check this page : ["FX_Glitch"](). These are the most recent and beautiful effects I've made so far but they are dedicated to my last year project.
+> The effects contained here are from my personal works. Under every effect, you can read a little explanation on how it was realized. There's also other effects that are waiting to be seen in the game "Glitch" I've produced for my last year project. You can find it in the [School Project](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Projects.md) Page. I really invite to check this page : ["FX_Glitch"](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Others/FX_Glitch.md). These are the most recent and beautiful effects I've made so far but they are dedicated to my last year project.
 
 ## My Works (Presented in a chronological order)
 
