@@ -36,3 +36,9 @@ There was also great points such as the code (our devs created a good AI), the s
 
 That was also the time I started to develop my skills that leads me where I am today, a future Tech/VFX artist. Finishing the year discovering that gaves the holidays to work on my skills as a Tech Artist.
 I really liked being a Narrative Designer because I enjoy creating stories and developing universes and those skills will help me to add layers on my effects to bring emotions and sensations to players.
+
+---
+
+[Retour à la page précédente](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Projects.md)
+
+[Retour à la page d'accueil](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io)
