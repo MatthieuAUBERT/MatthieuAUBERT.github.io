@@ -15,7 +15,7 @@ After, we were introduced to game engines. First came Unity which was a nice dis
 
 For Unreal, it's a long story. It began with my second year last project. We started to learn the engine pretty late and as a Narrative Designer for this project I didn't use a lot the engine. So I had to recover the late everytime I could. I first discover Niagara, Cascade and Unreal Materials. It was visually quite different from Unity but what's behind was the same. By doing that, I was not lost when I joined the team I had for the Glitch project (Last Year Project that I invite you to discover at this [page](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Glitch/Glitch.md)). They choose Unreal Engine as their main game development tool. I also had to learn Blueprints and got the basis since.
 
-For personal purpose, I also did some researches on some engines like Godot and Open 3D Engine but didn't use them.
+For personal purposes, I also did some researches on some engines like Godot and Open 3D Engine but didn't use them.
 
 Today, I know that I can get pretty quick to use a new engine, thanks to Unity and Unreal. I'm pretty comfortable in learning new tools and discovering how far we can go with these.
 
