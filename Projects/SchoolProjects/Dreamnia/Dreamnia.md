@@ -29,3 +29,9 @@ Here's a full playthrough to see what I did :
 ## What I Learned
 
 There's a lot of things that don't work or just needed to be added. But time played against me and I couldn't fix every bug, add effects, polish the art or fix mechanics. It was a great challenge that taught me to have a good autonomy as well as a great organization and improved all of my skills.
+
+---
+
+[Retour à la page précédente](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/Projects.md)
+
+[Retour à la page d'accueil](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io)
