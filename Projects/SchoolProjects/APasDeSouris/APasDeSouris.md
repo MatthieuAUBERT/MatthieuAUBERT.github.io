@@ -26,6 +26,8 @@ With my artist, we created all the assets. As he is really good in 3D and UI, I 
 
 We really wanted to implement a system where the player could move from one room to another by scanning a QR code directly on each room of the Parliament, but we didn't get the time nor the possibility to continue our partnership with the Parliament.
 
+![Victory](https://github.com/MatthieuAUBERT/MatthieuAUBERT.github.io/blob/main/Projects/SchoolProjects/APasDeSouris/Images/APasDeSouris.png)
+
 ## What I Learned
 
 That project really improved my programming skills especially on Unity / C# but it learned me as well that I didn't want to became a Programmer. Fortunately, doing the Tech Artist job really interested me and I love working with a lot of tools. That was also our first teamwork and that learned us to manage not only ourselves but also the others.
